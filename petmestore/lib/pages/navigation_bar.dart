@@ -62,7 +62,7 @@ class _PetMeNavBarState extends State<PetMeNavBar> {
             title: Text('Search'),
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.add),
+            icon: Icon(Icons.star),
             title: Text('Add'),
           ),
           BottomNavigationBarItem(

@@ -60,6 +60,10 @@ flutter:
   - assets/dog.png
   - assets/cat.png
   - assets/rabbit.png
+  - assets/subscription/plan1.png
+  - assets/subscription/plan2.png
+  - assets/subscription/plan3.png
+  - assets/subscription/plan4.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
